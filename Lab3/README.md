@@ -5,14 +5,12 @@ Group : 12c
 
 Improved application from LAB2
 
-Start/Splashscreen
-[see](Screenshots/splashscreen.png)
+JUnit
+[see](screenshots/JUnit.png)
 
-BMIcalculator
-[see](Screenshots/Bmi.png)
+Espresso
+[see](Screenshots/Espresso.png)
 
-BMRcalculator
-[see](Screenshots/Bmr.png)
+Monkey
+[see](Screenshots/Monkey.png)
 
-Cooking recipes
-[see](Screenshots/Food.png)
