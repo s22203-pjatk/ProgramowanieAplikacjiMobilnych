@@ -3,7 +3,7 @@
 Autor : Tomasz Fidurski s22203
 Group : 12c
 
-Kotlin exercises can be found in the folder [see](Exercises/)
+Kotlin exercises can be found in the folder [see](Exercises/src/main/kotlin)
 
 Improved application from LAB3
 
